@@ -22,3 +22,13 @@ If you have a long script and want it to instantly abort the moment ANY command 
 set -e
 ```
 This is a standard safety best-practice!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
