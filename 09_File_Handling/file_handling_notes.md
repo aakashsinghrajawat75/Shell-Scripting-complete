@@ -18,3 +18,14 @@ while read line; do
 done < "file.txt"
 ```
 *(This feeds the file directly into the loop, allowing you to process it line-by-line)*
+
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
