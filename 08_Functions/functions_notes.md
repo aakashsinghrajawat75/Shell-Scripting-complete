@@ -28,3 +28,12 @@ my_func() {
     local hidden_var="Secret"
 }
 ```
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
