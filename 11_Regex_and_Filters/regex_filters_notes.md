@@ -16,3 +16,14 @@ Unix comes with powerful built-in mini-languages specifically for text processin
 ## 3. Sed (Stream editing)
 `sed` is often used for Find and Replace operations on entirely files.
 * `sed 's/apple/orange/g' fruits.txt` - Replaces every instance of "apple" with "orange".
+
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
