@@ -73,3 +73,13 @@ Standard arrays use numbers (0, 1, 2) as positions. "Associative Arrays" allow y
 
 ---
 Arrays are incredibly useful when dealing with lists of folders, lines from files, or complex grouped data!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
