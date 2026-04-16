@@ -117,3 +117,13 @@ If you are repeatedly checking the exact same variable against many different po
 
 ---
 Conditionals are what make your scripts intelligent. By mastering `if`, `else`, `elif`, and `case`, your scripts can handle any situation intelligently!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
