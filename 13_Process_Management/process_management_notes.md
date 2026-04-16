@@ -11,3 +11,13 @@ To keep track of that background task (maybe you need to kill it later), you can
 
 ## 3. Waiting for tasks (`wait`)
 If you spawned multiple background tasks (like background downloads) and want to wait until they are ALL finished before proceeding, simply use the `wait` command.
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
