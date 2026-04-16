@@ -68,3 +68,13 @@ If anyone (including yourself) tries to change `city` later in the script (e.g.,
 
 ---
 Variables are the foundation of making your scripts dynamic and reusable!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
