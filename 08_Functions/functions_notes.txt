@@ -1,0 +1,30 @@
+# Complete Notes on Shell Scripting Functions
+
+Functions are reusable blocks of code. Instead of writing the same lines many times, you write them once inside a function and call it anytime!
+
+## 1. Creating a Function
+You can create a function by typing its name followed by `()`.
+```bash
+say_hello() {
+    echo "Hello!"
+}
+```
+*To run it, just type its name: `say_hello`*
+
+## 2. Passing Arguments
+You give data to functions the same way you give data to commands—by separating them with spaces.
+Inside the function, `$1` represents the first argument, `$2` is the second, etc.
+```bash
+greet_user() {
+    echo "Welcome, $1!"
+}
+greet_user "Aakash"  # Output: Welcome, Aakash!
+```
+
+## 3. Local Variables
+By default, variables inside a function can be accessed everywhere. If you want a variable to live *only* inside the function, use the `local` keyword.
+```bash
+my_func() {
+    local hidden_var="Secret"
+}
+```

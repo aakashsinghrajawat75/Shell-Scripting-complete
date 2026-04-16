@@ -1,0 +1,24 @@
+# Notes on Error Handling
+
+Scripts can break. Knowing how to detect and handle errors guarantees your script doesn't blindly continue doing dangerous things (like deleting the wrong folder!).
+
+## 1. The Exit Status (`$?`)
+Every command you run in linux invisibly returns a number when it finishes.
+* **0** means the command succeeded perfectly.
+* **Anything else (1 to 255)** means there was an error.
+
+You can check the result of the LAST command by examining the `$?` variable.
+```bash
+mkdir my_folder
+if [ $? -ne 0 ]; then
+    echo "Failed to create folder!"
+    exit 1
+fi
+```
+
+## 2. Stopping on First Error (`set -e`)
+If you have a long script and want it to instantly abort the moment ANY command fails, just put this at the very top:
+```bash
+set -e
+```
+This is a standard safety best-practice!
