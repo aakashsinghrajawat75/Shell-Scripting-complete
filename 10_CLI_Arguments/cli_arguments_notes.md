@@ -13,3 +13,13 @@ If I run: `./deploy.sh production update`
 * `$1` is `production`
 * `$2` is `update`
 * `$#` is `2`
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
