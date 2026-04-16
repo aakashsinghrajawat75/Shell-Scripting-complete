@@ -77,3 +77,13 @@ Comments are notes written in your code that the computer *completely ignores*. 
 
 ---
 By mastering how to display output (`echo`, `printf`), take input (`read`), and explain your code (`#`), you have the foundation to build interactive and well-documented scripts!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
