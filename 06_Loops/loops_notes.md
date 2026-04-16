@@ -89,3 +89,13 @@ Sometimes you want a script to run forever in the background (like a monitoring 
 
 ---
 By understanding these loops, your shell scripts can start automating massive, repetitive tasks completely hands-free!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
