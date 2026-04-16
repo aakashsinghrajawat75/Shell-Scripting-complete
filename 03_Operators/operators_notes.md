@@ -70,3 +70,13 @@ Instead of writing a full `if-then-else` block, you can use logical operators as
 
 ---
 By understanding these operators, you can build scripts that can intelligently inspect data, crunch numbers, structure logic loops, and perform file safety checks before executing!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
