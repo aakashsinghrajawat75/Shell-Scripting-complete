@@ -77,3 +77,13 @@ fi
 
 ---
 Text manipulation is a massive part of shell scripting. By knowing how to check lengths, swap capitalization, slice substrings, and replace phrases, you can handle almost any log file or text processing task!
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
